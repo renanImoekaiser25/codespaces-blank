@@ -21,11 +21,3 @@ sub rotina/função:
 linha inicial 11:
 linha de termino 176:
 def jogo(): # essa sub rotina chama todo o código do jogo
-
-
-
-
-
-
-
-

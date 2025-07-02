@@ -69,36 +69,3 @@ def playAgain():
     MostraCabecalho(["Deseja joga novamente?",'[1] sim', '[0] não'])
     reps = gatValue('Escolha uma opção')
     return reps == '1'
-
-# pixelX = 10
-# pixelY = 10
-# i = 0
-# msg = ''
-# for i in range(50):
-#     i += 1
-#     if i == pixelX and pixelY:
-#         msg += '*'
-#     else:
-#         msg += '0'
-#     if i == 25:
-#         msg += '\n'
-# print(msg)
-# largura = 50
-# altura = 10
-# tabuleiro = []
-# linha = []
-# msg = '0'*largura
-# for i in range(altura):
-#     if i == 3 :
-#         msg = 'teste'
-#     else:
-#         msg = '0'*largura
-#     linha.append(msg)
-
-# tabuleiro.append(linha)
-
-# for l in tabuleiro :
-#    for t in l :
-#        print(t)
-
-# # print(tabuleiro[1][4])
