@@ -1,0 +1,31 @@
+ Entrada de dados:
+ linha 38: barco1 =  list(map(int,input('barco 1 -> ').split(','))) # pega a entrada do jogador do barco 1 e transforma em inteiro/número
+
+saída de dados:
+ linha 176 :print(" Jogo feito por Renan Soares da Silva") # ele printa na tela os créditos (meu nome)
+variáveis:
+
+linha 55 : barcoIA3 = IA3[0] + IA3[1] # guarda o valor onde está localizado o barco
+
+operadores:
+linha 60: ataque1 = ataque[0] + ataque[1] # faz a soma do valor x e o valor y para definir uma posição para o barco
+
+estrutura de condição:
+
+linha 162: if vidaPss == 0: # verifica se a quantidade de vidas do jogador é zero, caso seja , finaliza o jogo
+
+estrutura de repetição:
+linha 58: while True: # ele cria um loop que ira ocorrer todo o jogo
+
+sub rotina/função:
+linha inicial 11:
+linha de termino 176:
+def jogo(): # essa sub rotina chama todo o código do jogo
+
+
+
+
+
+
+
+
